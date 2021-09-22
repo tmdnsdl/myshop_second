@@ -2,4 +2,5 @@
     pageEncoding="UTF-8"%>
 <%
 	response.sendRedirect("myshop/shoppage/shop_main.jsp");
+	sdds
 %>
